@@ -2,7 +2,7 @@ terraform {
   required_providers {
     neo4j = {
       version = "0.2"
-      source  = "headyj/neo4j"
+      source  = "naviat/neo4j"
     }
   }
 }

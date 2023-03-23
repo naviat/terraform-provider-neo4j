@@ -1,10 +1,12 @@
 # Terraform Neo4j provider
 
 ## Build
+
 Run the following command to build the provider
 `
 go build -o terraform-provider-neo4j
 `
+
 ## Run Neo4j
 
 To run a Neo4j server for testing, you can run the following command:
